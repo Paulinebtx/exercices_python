@@ -31,7 +31,7 @@ while True:
             player_score+=1
 
     
-    elif player == "Ciseau":
+    elif player == "Ciseaux":
         if computer == "Pierre":
             print("You loose")
             cpu_score+=1
